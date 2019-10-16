@@ -1,9 +1,9 @@
 {
-  "name": "PWA/CLI",
-  "short_name": "PWA/CLI",
-  "background_color": "#3E82F7",
+  "name": "Localcom - Intercomunicador web",
+  "short_name": "Localcom",
+  "background_color": "#00b16a",
   "orientation": "portrait",
-  "theme_color": "#1e88e5",
+  "theme_color": "#00b16a",
   "display": "standalone",
   "start_url": "/",
   "icons": [{
